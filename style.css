@@ -1,0 +1,23 @@
+h1 {
+    color: blueviolet;
+  }
+  p {
+    color: red;
+  }
+  .header {
+    border: solid;
+    background-color: aquamarine    ;
+    display : flex;
+    justify-content: space-between;
+  }
+  .menu {
+    background-color: beige;
+  }
+  .grid {
+    display:flex;
+    flex-direction: row; 
+    justify-content: space-between;
+  }
+  body {
+    background-color: #563889;
+  }
